@@ -6,4 +6,4 @@ I want to choose questions to ask
 Scenario: see all questions
   Given there are some questions
   When I go to the homepage 
-  Then I see all questionsra
+  Then I see all the questions
